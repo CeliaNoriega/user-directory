@@ -3,351 +3,351 @@ const employees = [{
   "first_name": "Bing",
   "last_name": "Pear",
   "email": "bpear0@microsoft.com",
-  "Phone Number": "834-244-2557",
-  "Department": "Movies"
+  "phone_number": "834-244-2557",
+  "department": "Movies"
 }, {
   "id": 2,
   "first_name": "Theodore",
   "last_name": "Wingar",
   "email": "twingar1@nih.gov",
-  "Phone Number": "334-530-5045",
-  "Department": "Garden"
+  "phone_number": "334-530-5045",
+  "department": "Garden"
 }, {
   "id": 3,
   "first_name": "Yulma",
   "last_name": "Jillings",
   "email": "yjillings2@pcworld.com",
-  "Phone Number": "918-664-1488",
-  "Department": "Home"
+  "phone_number": "918-664-1488",
+  "department": "Home"
 }, {
   "id": 4,
   "first_name": "Hedy",
   "last_name": "Atcock",
   "email": "hatcock3@psu.edu",
-  "Phone Number": "385-721-2958",
-  "Department": "Outdoors"
+  "phone_number": "385-721-2958",
+  "department": "Outdoors"
 }, {
   "id": 5,
   "first_name": "Nappie",
   "last_name": "Eriksson",
   "email": "neriksson4@hatena.ne.jp",
-  "Phone Number": "722-726-3797",
-  "Department": "Books"
+  "phone_number": "722-726-3797",
+  "department": "Books"
 }, {
   "id": 6,
   "first_name": "Karita",
   "last_name": "Speak",
   "email": "kspeak5@discovery.com",
-  "Phone Number": "188-482-0117",
-  "Department": "Movies"
+  "phone_number": "188-482-0117",
+  "department": "Movies"
 }, {
   "id": 7,
   "first_name": "Richy",
   "last_name": "Eayres",
   "email": "reayres6@dagondesign.com",
-  "Phone Number": "155-771-8367",
-  "Department": "Shoes"
+  "phone_number": "155-771-8367",
+  "department": "Shoes"
 }, {
   "id": 8,
   "first_name": "Antonella",
   "last_name": "Sporner",
   "email": "asporner7@kickstarter.com",
-  "Phone Number": "451-700-1914",
-  "Department": "Garden"
+  "phone_number": "451-700-1914",
+  "department": "Garden"
 }, {
   "id": 9,
   "first_name": "Cecil",
   "last_name": "Jacques",
   "email": "cjacques8@t-online.de",
-  "Phone Number": "547-527-2674",
-  "Department": "Kids"
+  "phone_number": "547-527-2674",
+  "department": "Kids"
 }, {
   "id": 10,
   "first_name": "Abbe",
   "last_name": "Fardell",
   "email": "afardell9@gov.uk",
-  "Phone Number": "798-642-8206",
-  "Department": "Books"
+  "phone_number": "798-642-8206",
+  "department": "Books"
 }, {
   "id": 11,
   "first_name": "Adan",
   "last_name": "Orrom",
   "email": "aorroma@rediff.com",
-  "Phone Number": "717-106-9862",
-  "Department": "Outdoors"
+  "phone_number": "717-106-9862",
+  "department": "Outdoors"
 }, {
   "id": 12,
   "first_name": "Lionello",
   "last_name": "Redwin",
   "email": "lredwinb@canalblog.com",
-  "Phone Number": "674-929-2531",
-  "Department": "Jewelery"
+  "phone_number": "674-929-2531",
+  "department": "Jewelery"
 }, {
   "id": 13,
   "first_name": "Garth",
   "last_name": "Havesides",
   "email": "ghavesidesc@studiopress.com",
-  "Phone Number": "825-981-4197",
-  "Department": "Home"
+  "phone_number": "825-981-4197",
+  "department": "Home"
 }, {
   "id": 14,
   "first_name": "Efren",
   "last_name": "Voak",
   "email": "evoakd@newyorker.com",
-  "Phone Number": "491-611-7177",
-  "Department": "Toys"
+  "phone_number": "491-611-7177",
+  "department": "Toys"
 }, {
   "id": 15,
   "first_name": "Ibby",
   "last_name": "Pellamont",
   "email": "ipellamonte@spotify.com",
-  "Phone Number": "748-655-2942",
-  "Department": "Books"
+  "phone_number": "748-655-2942",
+  "department": "Books"
 }, {
   "id": 16,
   "first_name": "Gabriello",
   "last_name": "MacKeller",
   "email": "gmackellerf@discuz.net",
-  "Phone Number": "900-900-6848",
-  "Department": "Tools"
+  "phone_number": "900-900-6848",
+  "department": "Tools"
 }, {
   "id": 17,
   "first_name": "Augusto",
   "last_name": "Middleton",
   "email": "amiddletong@fc2.com",
-  "Phone Number": "771-914-9193",
-  "Department": "Automotive"
+  "phone_number": "771-914-9193",
+  "department": "Automotive"
 }, {
   "id": 18,
   "first_name": "Giana",
   "last_name": "Vials",
   "email": "gvialsh@time.com",
-  "Phone Number": "186-882-0275",
-  "Department": "Shoes"
+  "phone_number": "186-882-0275",
+  "department": "Shoes"
 }, {
   "id": 19,
   "first_name": "Marvin",
   "last_name": "Geistmann",
   "email": "mgeistmanni@sitemeter.com",
-  "Phone Number": "549-550-0671",
-  "Department": "Beauty"
+  "phone_number": "549-550-0671",
+  "department": "Beauty"
 }, {
   "id": 20,
   "first_name": "Daveen",
   "last_name": "Pardi",
   "email": "dpardij@so-net.ne.jp",
-  "Phone Number": "442-129-4670",
-  "Department": "Beauty"
+  "phone_number": "442-129-4670",
+  "department": "Beauty"
 }, {
   "id": 21,
   "first_name": "Georas",
   "last_name": "Yetman",
   "email": "gyetmank@feedburner.com",
-  "Phone Number": "342-241-9033",
-  "Department": "Games"
+  "phone_number": "342-241-9033",
+  "department": "Games"
 }, {
   "id": 22,
   "first_name": "Georgia",
   "last_name": "Layfield",
   "email": "glayfieldl@unesco.org",
-  "Phone Number": "678-396-4321",
-  "Department": "Health"
+  "phone_number": "678-396-4321",
+  "department": "Health"
 }, {
   "id": 23,
   "first_name": "Emery",
   "last_name": "Wraith",
   "email": "ewraithm@netvibes.com",
-  "Phone Number": "165-498-5898",
-  "Department": "Beauty"
+  "phone_number": "165-498-5898",
+  "department": "Beauty"
 }, {
   "id": 24,
   "first_name": "Tad",
   "last_name": "Reding",
   "email": "tredingn@psu.edu",
-  "Phone Number": "340-888-7642",
-  "Department": "Kids"
+  "phone_number": "340-888-7642",
+  "department": "Kids"
 }, {
   "id": 25,
   "first_name": "Darlleen",
   "last_name": "Ivimy",
   "email": "divimyo@51.la",
-  "Phone Number": "497-858-1041",
-  "Department": "Tools"
+  "phone_number": "497-858-1041",
+  "department": "Tools"
 }, {
   "id": 26,
   "first_name": "Dalis",
   "last_name": "Rodnight",
   "email": "drodnightp@vkontakte.ru",
-  "Phone Number": "497-257-6215",
-  "Department": "Automotive"
+  "phone_number": "497-257-6215",
+  "department": "Automotive"
 }, {
   "id": 27,
   "first_name": "Hephzibah",
   "last_name": "Baudou",
   "email": "hbaudouq@ameblo.jp",
-  "Phone Number": "183-466-3356",
-  "Department": "Jewelery"
+  "phone_number": "183-466-3356",
+  "department": "Jewelery"
 }, {
   "id": 28,
   "first_name": "Arleyne",
   "last_name": "Ganter",
   "email": "aganterr@yale.edu",
-  "Phone Number": "487-112-9311",
-  "Department": "Games"
+  "phone_number": "487-112-9311",
+  "department": "Games"
 }, {
   "id": 29,
   "first_name": "Gertie",
   "last_name": "Sweetsur",
   "email": "gsweetsurs@vimeo.com",
-  "Phone Number": "242-653-7085",
-  "Department": "Sports"
+  "phone_number": "242-653-7085",
+  "department": "Sports"
 }, {
   "id": 30,
   "first_name": "Freemon",
   "last_name": "Corpe",
   "email": "fcorpet@sfgate.com",
-  "Phone Number": "804-355-9369",
-  "Department": "Computers"
+  "phone_number": "804-355-9369",
+  "department": "Computers"
 }, {
   "id": 31,
   "first_name": "Genni",
   "last_name": "Liley",
   "email": "glileyu@ow.ly",
-  "Phone Number": "966-219-0647",
-  "Department": "Books"
+  "phone_number": "966-219-0647",
+  "department": "Books"
 }, {
   "id": 32,
   "first_name": "Kaylil",
   "last_name": "Dene",
   "email": "kdenev@arizona.edu",
-  "Phone Number": "332-164-6618",
-  "Department": "Garden"
+  "phone_number": "332-164-6618",
+  "department": "Garden"
 }, {
   "id": 33,
   "first_name": "Cloris",
   "last_name": "Drackford",
   "email": "cdrackfordw@kickstarter.com",
-  "Phone Number": "524-648-6615",
-  "Department": "Computers"
+  "phone_number": "524-648-6615",
+  "department": "Computers"
 }, {
   "id": 34,
   "first_name": "Mavis",
   "last_name": "Ferrillo",
   "email": "mferrillox@unesco.org",
-  "Phone Number": "827-374-0173",
-  "Department": "Health"
+  "phone_number": "827-374-0173",
+  "department": "Health"
 }, {
   "id": 35,
   "first_name": "Annis",
   "last_name": "McKyrrelly",
   "email": "amckyrrellyy@hostgator.com",
-  "Phone Number": "175-218-9332",
-  "Department": "Clothing"
+  "phone_number": "175-218-9332",
+  "department": "Clothing"
 }, {
   "id": 36,
   "first_name": "Bart",
   "last_name": "Stelli",
   "email": "bstelliz@shareasale.com",
-  "Phone Number": "177-328-1265",
-  "Department": "Toys"
+  "phone_number": "177-328-1265",
+  "department": "Toys"
 }, {
   "id": 37,
   "first_name": "Irv",
   "last_name": "McDonough",
   "email": "imcdonough10@about.com",
-  "Phone Number": "917-256-0580",
-  "Department": "Sports"
+  "phone_number": "917-256-0580",
+  "department": "Sports"
 }, {
   "id": 38,
   "first_name": "Chaddy",
   "last_name": "Magson",
   "email": "cmagson11@adobe.com",
-  "Phone Number": "616-207-4418",
-  "Department": "Grocery"
+  "phone_number": "616-207-4418",
+  "department": "Grocery"
 }, {
   "id": 39,
   "first_name": "Vickie",
   "last_name": "Tunstall",
   "email": "vtunstall12@pagesperso-orange.fr",
-  "Phone Number": "128-952-1261",
-  "Department": "Tools"
+  "phone_number": "128-952-1261",
+  "department": "Tools"
 }, {
   "id": 40,
   "first_name": "Arlyn",
   "last_name": "Spottiswoode",
   "email": "aspottiswoode13@deviantart.com",
-  "Phone Number": "314-539-7852",
-  "Department": "Shoes"
+  "phone_number": "314-539-7852",
+  "department": "Shoes"
 }, {
   "id": 41,
   "first_name": "Joel",
   "last_name": "Coverlyn",
   "email": "jcoverlyn14@slate.com",
-  "Phone Number": "836-784-6156",
-  "Department": "Jewelery"
+  "phone_number": "836-784-6156",
+  "department": "Jewelery"
 }, {
   "id": 42,
   "first_name": "Robin",
   "last_name": "Ruilton",
   "email": "rruilton15@tamu.edu",
-  "Phone Number": "262-784-8307",
-  "Department": "Books"
+  "phone_number": "262-784-8307",
+  "department": "Books"
 }, {
   "id": 43,
   "first_name": "Clementine",
   "last_name": "Letteresse",
   "email": "cletteresse16@livejournal.com",
-  "Phone Number": "363-284-8906",
-  "Department": "Shoes"
+  "phone_number": "363-284-8906",
+  "department": "Shoes"
 }, {
   "id": 44,
   "first_name": "Oriana",
   "last_name": "Slowey",
   "email": "oslowey17@dailymail.co.uk",
-  "Phone Number": "507-870-8949",
-  "Department": "Tools"
+  "phone_number": "507-870-8949",
+  "department": "Tools"
 }, {
   "id": 45,
   "first_name": "Karrah",
   "last_name": "Knowlys",
   "email": "kknowlys18@weebly.com",
-  "Phone Number": "440-213-9588",
-  "Department": "Garden"
+  "phone_number": "440-213-9588",
+  "department": "Garden"
 }, {
   "id": 46,
   "first_name": "Bastien",
   "last_name": "Costello",
   "email": "bcostello19@spiegel.de",
-  "Phone Number": "113-898-2318",
-  "Department": "Shoes"
+  "phone_number": "113-898-2318",
+  "department": "Shoes"
 }, {
   "id": 47,
   "first_name": "Courtney",
   "last_name": "Owers",
   "email": "cowers1a@soundcloud.com",
-  "Phone Number": "539-885-4596",
-  "Department": "Books"
+  "phone_number": "539-885-4596",
+  "department": "Books"
 }, {
   "id": 48,
   "first_name": "Calida",
   "last_name": "McCuish",
   "email": "cmccuish1b@yandex.ru",
-  "Phone Number": "613-172-7505",
-  "Department": "Computers"
+  "phone_number": "613-172-7505",
+  "department": "Computers"
 }, {
   "id": 49,
   "first_name": "Beniamino",
   "last_name": "Blampy",
   "email": "bblampy1c@google.co.jp",
-  "Phone Number": "320-852-5940",
-  "Department": "Sports"
+  "phone_number": "320-852-5940",
+  "department": "Sports"
 }, {
   "id": 50,
   "first_name": "Jodi",
   "last_name": "Binion",
   "email": "jbinion1d@51.la",
-  "Phone Number": "390-983-2490",
-  "Department": "Clothing"
+  "phone_number": "390-983-2490",
+  "department": "Clothing"
 }]
 
 export default employees
