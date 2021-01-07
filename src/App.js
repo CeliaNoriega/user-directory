@@ -12,18 +12,22 @@ const App = () => {
     {
       Header: 'Last Name',
       accessor: 'last_name'
+      filterable: true
     },
     {
       Header: 'Email',
       accessor: 'email'
+      filterable: true
     },
     {
       Header: 'Phone Number',
       accessor: 'phone_number'
+      filterable: true
     },
     {
       Header: 'Department',
       accessor: 'department'
+      filterable: true
     },
   ]
 
