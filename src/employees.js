@@ -1,8 +1,8 @@
 const employees = [{
   "id": 1,
-  "first_name": "Leopold",
-  "last_name": "Orgee",
-  "email": "lorgee0@miibeian.gov.cn",
+  "first_name": "Leonard",
+  "last_name": "Oscar",
+  "email": "loscar0@miibeian.gov.cn",
   "Phone Number": "193-949-0725",
   "title": "Software Consultant",
   "Department": "Garden"
